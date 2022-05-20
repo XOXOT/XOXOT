@@ -10,13 +10,10 @@
  
  ﹏﹏﹏﹏﹏﹏﹏
 <br/>
- 
 <h3> 📧 EMail 📧</h3>
 <h3>3292583@naver.com</h3>
 ﹏﹏﹏﹏﹏﹏﹏
 <br/>
- 
- 
  <h3>💻 Tech Stack 💻</h3>
 <h3>(👇 클릭하면 해당 Repository로 이동 👇)</h3>
 <br/>
