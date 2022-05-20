@@ -23,7 +23,7 @@ Hello, I'm Heetae (taetae).<br/>
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Csharp-00599C?style=flat-square&logo=C%23&logoColor=white"/>
+<img src="https://img.shields.io/badge/Csharp-00599C?style=flat-square&logo=Csharp&logoColor=white"/>
 
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
