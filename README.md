@@ -5,7 +5,7 @@
 <div align = "center">
 
 <br/>
-<h3> -XOXO-</h3><br/>
+<h3> -XOXOT-</h3><br/>
 Hello, I'm Heetae (taetae).<br/>
 <br/><br/>
 
@@ -33,6 +33,13 @@ Hello, I'm Heetae (taetae).<br/>
 <!--<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>-->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 
+## GitHub Stat and Languages
+<p align='center'>
+  <a href="https://github.com/jacksimuse">
+    <img src="https://github-readme-stats.vercel.app/api?username=jacksimuse&theme=onedark&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksimuse&theme=onedark&layout=compact"/>
+  </a>
+</p>
 
 </div>
 
