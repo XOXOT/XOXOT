@@ -55,7 +55,8 @@
 </div>
 
 <br/>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXOXOT&count_bg=%234A8BDF&title_bg=%23D2D7D9&icon=soundcloud.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=timeAuto&height=100&section=footer&fontSize=90)
 
 
