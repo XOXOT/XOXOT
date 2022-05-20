@@ -17,9 +17,11 @@ Hello, I'm Heetae (taetae).<br/>
 <br/><br/>
  
 <h3>💻 Tech Stack 💻</h3>
- 
+<h3>(클릭하면 해당 Repository로 이동)</h3>
 <br/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <a href="https://github.com/XOXOT/C_study">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+</a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=Csharp&logoColor=white"/>
 
