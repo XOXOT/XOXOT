@@ -13,6 +13,8 @@
  <h3>📈 Hits 📈</h3>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXOXOT&count_bg=%234A8BDF&title_bg=%23D2D7D9&icon=soundcloud.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
  
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharimkang)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/harimkang?label=Follow)
+ 
  <h3>💻 Tech Stack 💻</h3>
 <h3>(👇 클릭하면 해당 Repository로 이동 👇)</h3>
 <br/>
