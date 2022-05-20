@@ -35,9 +35,9 @@ Hello, I'm Heetae (taetae).<br/>
 
 ## GitHub Stat and Languages
 <p align='center'>
-  <a href="https://github.com/jacksimuse">
-    <img src="https://github-readme-stats.vercel.app/api?username=jacksimuse&theme=onedark&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksimuse&theme=onedark&layout=compact"/>
+  <a href="https://github.com/XOXOT">
+    <img src="https://github-readme-stats.vercel.app/api?username=XOXOT&theme=onedark&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XOXOT&theme=onedark&layout=compact"/>
   </a>
 </p>
 
