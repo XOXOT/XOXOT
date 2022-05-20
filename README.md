@@ -24,9 +24,13 @@
     <a href="https://github.com/XOXOT/Csharp">
      <img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=Csharp&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+</a>
+    <a href="https://github.com/XOXOT/Python_Study">
+     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+</a>
+    <a href="https://github.com/XOXOT/R_Study">
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
  
 <br>
 </a>
