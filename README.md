@@ -47,8 +47,8 @@
 <br/>
 <p align='center'>
   <a href="https://github.com/XOXOT">
-    <img src="https://github-readme-stats.vercel.app/api?username=XOXOT&theme=onedark&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XOXOT&theme=onedark&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=XOXOT&theme=github_dark&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XOXOT&theme=github_dark&layout=compact"/>
   </a>
 </p>
 
