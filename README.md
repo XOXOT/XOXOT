@@ -10,7 +10,7 @@
 
 <br/>
  
-#💻 Tech Stack 💻
+ <h3>💻 Tech Stack 💻</h3>
 <h3>(👇 클릭하면 해당 Repository로 이동 👇)</h3>
 <br/>
   <a href="https://github.com/XOXOT/C_study">
