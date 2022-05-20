@@ -50,7 +50,7 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=timeAuto&height=100&section=footer&fontSize=90)
 
 
 
