@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=XOXO PROFILE&fontSize=50" />
 <br/><br/>
 
- <h3>➕ Hits ➕</h3>
+ <h3>📈 Hits 📈</h3>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXOXOT%2FXOXOT&count_bg=%235687E4&title_bg=%23D3D9DC&icon=soundcloud.svg&icon_color=%23E0E0E0&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
  
@@ -38,8 +38,7 @@
 ﹏﹏﹏﹏﹏﹏﹏
      
 <br/>
-     
-## GitHub Stat and Languages
+ <h3>📊 GitHub Stat and Languages 📊</h3>     
 <p align='center'>
   <a href="https://github.com/XOXOT">
     <img src="https://github-readme-stats.vercel.app/api?username=XOXOT&theme=onedark&show_icons=true"/>
