@@ -3,8 +3,7 @@
 
 <div align = "center">
 
-# 👍 Welcome XOXOT House 👍
-//<h3> #Welcome XOXOT House</h3><br/>
+#  Welcome XOXOT House 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=XOXOT Github&fontSize=50" />
 <br/><br/>
 
