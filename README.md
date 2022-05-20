@@ -1,6 +1,6 @@
-<div align = "center">
+# 🎉 Welcome XOXOT House 🎉
 
-#  Welcome XOXOT House 
+<div align = "center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=XOXO PROFILE&fontSize=50" />
 <br/><br/>
 
