@@ -1,7 +1,7 @@
 # 🎉 Welcome XOXOT House 🎉
 
 <div align = "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=XOXO PROFILE&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=XOXOT PROFILE&fontSize=50" />
 <br/><br/>
  
   <h3>📈 Hits 📈</h3>
